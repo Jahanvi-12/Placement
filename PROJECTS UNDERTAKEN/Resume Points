@@ -1,0 +1,40 @@
+STOCK PRICE PREDICTION | Course Project | Prof. Biplab Banerjee [Apr’21 - May’21]
+Performed sentimental analysis on stocks by studying relevant DL & NLP methods used to predict stock price trend from text
+Achieved 10% more accuracy than the referred research paper by implementing LSTM, CNN and Random Forest classifier
+
+INVESTMENT RISK MANAGEMENT & STOCK RETURNS | Guided Project [Jul’20]
+Built stock portfolio & reported its performance of 2.1 (Sortino) & 45% (Return) after benchmarking Modern Portfolio Theory
+Calculated rate of return of 100+ stocks and measured risk-adjusted stock performance using Sharpe and Sortino ratios
+Quantified risk to reward using Treynor ratio and measured the overall systematic risk of a portfolio using Portfolio Beta
+
+CREDIT CARD FRAUD DETECTION | Machine Learning | Self Project [Jul’21 - Aug’21] 
+Detected fraudulent credit card transactions by using anomaly detection algorithms like Isolation Forest & LOF Clustering
+Performed Exploratory Data Analysis&employed models SVM, KNN and Logistic Regression to achieve accuracy of 95%
+
+DATA SCIENCE | Summer of Science | Maths & Physics club, IIT Bombay [Apr’20 - Jun’20]
+Predicted salary of employees using regression models like SVR, Decision tree and Random forest; achieved accuracy of 88%
+Created a K-Means clustering model to target customers in sales and done ads CTR optimisation using Thompson sampling
+Executed market basket optimisation using Apriori algorithm and achieved highest lift score of 4.84 and confidence of 38%
+Analysed customer restaurant reviews using Natural Language Processing for improvising customer experience in the future
+
+PROJECT MANAGEMENT | Course Project | Prof T.T. Niranjan [Mar’20 - Jun’20]
+Studied Pradhan Mantri Kaushal Vikas Yojana project and analysed the work breakdown structure of the system
+Estimated overall cost required for execution of the project by researching over various logistics required
+Used Projectlibre to prepare a project plan by Gantt Chart, identified the risk involved and suggested mitigation measures
+
+PRE-ENGINEERED BRIDGE DESIGN | Course Project | Prof Siddhartha Ghosh [Jan’21 - Mar’21]
+Designed a pre-engineered truss bridge of provided dimensions considering resource restrictions by using STAAD Pro
+Assigned the material properties of each component including beams, columns, bracings and other structural components
+Used OSDAG for shear connection design between beam-beam and beam-column and created its AutoCAD drawings
+
+ENTERPRENEURSHIP-URBAN BLOOM | Course Project | Prof Rajen Jaswa [Oct’20 - Nov’20]
+Ideated a startup for selling eco-friendly pots after performing extensive market research on affinity towards the product
+Estimated market size and researched about various competitions & opportunities to make strategy around the product
+
+XLR8 | Remote Controlled Car | ERC,IIT Bombay [Oct’18]
+Engineered a manually controlled car via Bluetooth device (HC05) and mobilized the bot with different steering mechanism
+Bagged Special Mention for commendable hard work and completing the final run having many obstacles among 15+ teams
+
+ENERGY CONSUMPTION ANALYSIS | Course Project | Prof Arnab Jana [Sept’20 - Oct’20]
+Gathered 50+ households data of energy consumption in COVID 19 to analyse the impact of lockdown on energy use pattern
+Concluded pre covid vs post covid energy consumption analysis and provisioned solutions to improve effiency of energy
